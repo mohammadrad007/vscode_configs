@@ -1,0 +1,54 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "glassit.alpha": 240,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "material-product-icons",
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "'operator mono lig', 'B Yekan'",
+  "editor.fontSize": 14.3,
+  "editor.fontWeight": 400,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.quickSuggestionsDelay": 5,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "files.associations": {
+    "*.jsx, tsx": "javascriptreact"
+  },
+  "editor.wordWrap": "on",
+  "editor.tabSize": 3,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "eslint.codeAction.disableRuleComment": {},
+  "explorer.confirmDragAndDrop": false,
+  "workbench.statusBar.visible": true,
+  "debug.javascript.terminalOptions": {},
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.suggestSelection": "first",
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"]
+  },
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"]
+  }
+}
